@@ -6,11 +6,11 @@ Ten la libertad de revisar el código para poner en práctica tus habilidades de
 
 ## Índice
 
-* [1. Intro]()
-* [2.Demo]()
-* [3. ¿Qué construirás?]()
-* [4. Objetivos de Aprendizaje]()
-* [5.Requisitos]()
+* [1. Intro](https://github.com/7evenana/clon-de-google/tree/main#1intro)
+* [2.Demo](https://github.com/7evenana/clon-de-google/tree/main#1intro)
+* [3. ¿Qué construirás?](https://github.com/7evenana/clon-de-google/tree/main#1intro)
+* [4. Objetivos de Aprendizaje](https://github.com/7evenana/clon-de-google/tree/main#1intro)
+* [5.Requisitos](https://github.com/7evenana/clon-de-google/tree/main#1intro)
 
 
 ## 1.Intro
