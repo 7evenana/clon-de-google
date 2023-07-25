@@ -23,7 +23,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]()
+![imagen](https://github.com/7evenana/google_clon/blob/main/images/captura-google.png)
 
 ## 3.¿Qué construirás?
 Este proyecto está enfocado en construir la interfaz estática de Google.
