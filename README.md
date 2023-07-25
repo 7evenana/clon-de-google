@@ -1,6 +1,6 @@
 # Clon de Google con HTML y CSS
 
-Este proyecto se realizó durante el bootcamp de "Technolochicas PRO Summer 2023", con el fin de ponr en parctica conocimientos básicos de programación web con el uso de HTML y CSS.
+Este proyecto se realizó durante el bootcamp de "Technolochicas PRO Summer 2023", con el fin de poner en práctica conocimientos básicos de programación web con el uso de HTML y CSS.
 
 Ten la libertad de revisar el código para poner en práctica tus habilidades de programación e intentarlo tú mismo.
 
